@@ -1,0 +1,44 @@
+[
+    {
+        "iconUrl": "https://png.pngtree.com/png-clipart/20210311/original/pngtree-assasin-brown-mascot-logo-png-image_6002609.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/8figalltimepro/sorastream-plugin",
+        "fileSize": 143844,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "8",
+            "tora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 71,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPIjinkipunchi",
+        "url": "https://raw.githubusercontent.com/8figalltimepro/sorastream-plugin/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/8figalltimepro/sorastream-plugin",
+        "fileSize": 23428,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xcineio",
+        "url": "https://raw.githubusercontent.com/8figalltimepro/sorastream-plugin/builds/Xcineio.cs3",
+        "name": "Xcineio"
+    }
+]
