@@ -24,5 +24,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://eightfiglive.wpenginepowered.com/wp-content/uploads/2022/03/8fig_logo_darkgreen.svg"
+    iconUrl = "https://png.pngtree.com/png-clipart/20210311/original/pngtree-assasin-brown-mascot-logo-png-image_6002609.jpg"
 }
