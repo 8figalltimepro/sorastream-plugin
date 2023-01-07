@@ -1,13 +1,13 @@
 // use an integer for version numbers
-version = 70
+version = 71
 
 
 cloudstream {
     language = "en"
     // All of these properties are optional, you can safely remove them
 
-     description = "#1 best extention based on MultiAPI"
-     authors = listOf("Hexated", "Sora")
+     description = "#1 best extention based on MultiAPIjinkipunchi"
+     authors = listOf("8", "tora")
 
     /**
      * Status int as the following:
@@ -24,5 +24,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png"
+    iconUrl = "https://eightfiglive.wpenginepowered.com/wp-content/uploads/2022/03/8fig_logo_darkgreen.svg"
 }
